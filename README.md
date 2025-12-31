@@ -393,17 +393,38 @@ const ahmedFawzy = {
 
 <br/>
 
-<!-- Stats Cards -->
+<!-- Stats Cards - Using multiple providers for reliability -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=12" alt="Top Languages"/>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
+<!-- Alternative Stats with Different API -->
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzyjr&theme=transparent&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=c9d1d9&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=888888&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats - Using streak-stats.demolab.com as backup -->
+<div align="center">
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://streak-stats.demolab.com?user=ahmedfawzyjr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Backup Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedfawzyjr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Backup"/>
 </div>
 
 <br/>
@@ -417,15 +438,23 @@ const ahmedFawzy = {
 
 <!-- Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfawzyjr&theme=github_dark" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfawzyjr&theme=tokyonight" width="100%" alt="Profile Details"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfawzyjr&theme=github_dark" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfawzyjr&theme=github_dark" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfawzyjr&theme=github_dark&utcOffset=2" width="32%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfawzyjr&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfawzyjr&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfawzyjr&theme=tokyonight&utcOffset=2" width="32%" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<!-- Stats Cards Row -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfawzyjr&theme=tokyonight" width="49%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=ahmedfawzyjr&theme=tokyonight" width="49%" alt="Commits"/>
 </div>
 
 <br/>
@@ -439,7 +468,14 @@ const ahmedFawzy = {
 ## <img src="https://media.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif" width="35"> **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Backup Trophies with Different Theme -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies Alt"/>
 </div>
 
 <br/>
