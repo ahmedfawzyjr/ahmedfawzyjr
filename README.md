@@ -393,69 +393,48 @@ const ahmedFawzy = {
 
 <br/>
 
-<!-- Stats Cards - Using multiple providers for reliability -->
-<div align="center">
+<!-- GitHub Stats - Simple and Working -->
+<p align="center">
   <a href="https://github.com/ahmedfawzyjr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/ahmedfawzyjr">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
   </a>
-</div>
+</p>
 
 <br/>
 
-<!-- Alternative Stats with Different API -->
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%"/>
-</div>
-
-<br/>
-
-<!-- Streak Stats - Using streak-stats.demolab.com as backup -->
-<div align="center">
+<!-- GitHub Streak - Working API -->
+<p align="center">
   <a href="https://github.com/ahmedfawzyjr">
-    <img src="https://streak-stats.demolab.com?user=ahmedfawzyjr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="70%"/>
+    <img src="https://streak-stats.demolab.com/?user=ahmedfawzyjr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
-</div>
-
-<br/>
-
-<!-- Backup Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedfawzyjr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Backup"/>
-</div>
+</p>
 
 <br/>
 
 <!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzyjr&custom_title=📈%20Ahmed's%20Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true&radius=12" width="100%" alt="Activity Graph"/>
-</div>
+<p align="center">
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzyjr&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  </a>
+</p>
 
 <br/>
 
 <!-- Profile Summary Cards -->
-<div align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfawzyjr&theme=tokyonight" width="100%" alt="Profile Details"/>
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfawzyjr&theme=tokyonight" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfawzyjr&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfawzyjr&theme=tokyonight&utcOffset=2" width="32%" alt="Productive Time"/>
-</div>
-
-<br/>
-
-<!-- Stats Cards Row -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfawzyjr&theme=tokyonight" width="49%" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=ahmedfawzyjr&theme=tokyonight" width="49%" alt="Commits"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfawzyjr&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfawzyjr&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfawzyjr&theme=tokyonight" width="32%"/>
+</p>
 
 <br/>
 
@@ -467,16 +446,11 @@ const ahmedFawzy = {
 <!-- Trophies Section -->
 ## <img src="https://media.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif" width="35"> **GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- Backup Trophies with Different Theme -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies Alt"/>
-</div>
+<p align="center">
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzyjr&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 <br/>
 
@@ -549,11 +523,17 @@ const ahmedFawzy = {
 <!-- Spotify Section -->
 ## <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="35"> **Currently Vibing To 🎵**
 
-<div align="center">
-  <a href="https://open.spotify.com/user/swsaoz83f3lh6fko9ch6puwp4">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=swsaoz83f3lh6fko9ch6puwp4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00D9FF&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
+<p align="center">
+  <a href="https://open.spotify.com/user/31h6h36puzlw4cx4y3actglmon2a">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h6h36puzlw4cx4y3actglmon2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" width="400"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31h6h36puzlw4cx4y3actglmon2a">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+</p>
 
 <br/>
 
@@ -635,9 +615,11 @@ const ahmedFawzy = {
 </div>
 
 <!-- Footer Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=400&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=🌟+Thanks+for+stopping+by!+Have+an+amazing+day!+🌟;📫+Let's+connect+and+build+something+great!;🚀+Happy+Coding!+Keep+Learning!+Never+Give+Up!;💜+Made+with+love+from+Egypt+🇪🇬+by+Ahmed+Fawzy" alt="Footer Typing"/>
-</div>
+<p align="center">
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+connect+and+build+something+great!;Happy+Coding!+Keep+Learning!;Made+with+love+from+Egypt" alt="Footer Typing"/>
+  </a>
+</p>
 
 <br/>
 
