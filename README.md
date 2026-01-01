@@ -166,20 +166,28 @@ const ahmedFawzy = {
 
 ## 📊 GitHub Statistics
 
-<!-- Stats Cards -->
+<!-- GitHub Stats using different instances -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats using git-masterrstaa instance -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedfawzyjr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmedfawzyjr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzyjr&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <a href="https://github.com/ahmedfawzyjr">
+    <img src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedfawzyjr&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  </a>
 </p>
 
 <!-- Profile Summary Cards -->
