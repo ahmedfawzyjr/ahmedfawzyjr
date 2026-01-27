@@ -114,6 +114,44 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedfawzyjr/ahmedfawzyjr/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ahmedfawzyjr/Masarefy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Masarefy&theme=tokyonight&show_owner=true" alt="Masarefy" />
+  </a>
+  <a href="https://github.com/ahmedfawzyjr/Umrah-Legherk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Umrah-Legherk&theme=tokyonight&show_owner=true" alt="Umrah-Legherk" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmedfawzyjr/Ahmed-Fawzy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Ahmed-Fawzy&theme=tokyonight&show_owner=true" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ahmedfawzyjr/Commandos-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Commandos-Game&theme=tokyonight&show_owner=true" alt="Commandos-Game" />
+  </a>
+</p>
+
+---
+
+## 💬 Random Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
