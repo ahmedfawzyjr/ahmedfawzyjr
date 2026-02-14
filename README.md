@@ -1,116 +1,96 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=200&section=header&text=Ahmed%20Fawzy&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Ahmed%20Fawzy&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Flutter%20Expert%20|%20Creative%20Developer&descSize=22&descAlignY=60" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+Developer;Flutter+Expert;Problem+Solver" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+Developer;Flutter+Expert;Architecture+Enthusiast;Problem+Solver" alt="Typing Header" />
 </p>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedfawzyjr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ahmedfawzyjr?label=Followers&style=flat-square&color=00D9FF" alt="Followers" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintained" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedfawzyjr&label=VISITOR+COUNT&color=00D9FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ahmedfawzyjr?label=FOLLOWERS&style=flat-square&color=00D9FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/MAINTAINED-YES-00D9FF?style=flat-square" alt="Maintained" />
 </p>
+
+<br />
 
 ---
 
-## 👨‍💻 About Me
+## �‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
-</p>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="left">
+        I am a <b>Senior Software Engineer / Flutter Expert</b> based in Egypt 🇪🇬. I specialize in building high-end mobile experiences with focus on performance, scalability, and clean architecture.
+      </p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Developing robust financial & utility apps in Flutter</li>
+        <li>🌱 <b>Future Goals:</b> Mastering AI-enhanced mobile development & Cloud Architecture</li>
+        <li>💬 <b>Ask me about:</b> Flutter, Clean Arch, Performance Boosts, and Dart</li>
+        <li>� <b>Get in touch:</b> <a href="mailto:contact@ahmedfawzy.dev">contact@ahmedfawzy.dev</a></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 I'm currently working on **High-Performance Mobile Apps** with **Flutter**
-- 🌱 I'm deep diving into **Clean Architecture, AI Integration, and DevOps**
-- 💬 Ask me about **Flutter, Dart, Mobile Architecture, and Performance Optimization**
-- 📫 Reach me at: **[contact@ahmedfawzy.dev](mailto:contact@ahmedfawzy.dev)**
-- 📍 Based in **Egypt 🇪🇬**
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,android,apple,js,ts,react,nextjs,tailwind,nodejs,express,firebase,mongodb,mysql,postgres,git,github,vscode,androidstudio,docker,aws,vercel,figma,xd,ps" />
-  </a>
-</p>
-
-<br/>
-
-### 📱 Mobile Development
-`Flutter` `Dart` `Kotlin` `Android` `iOS` `Firebase`
-
-### 💻 Frontend
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3`
-
-### ⚙️ Backend & Database
-`Node.js` `Express` `MongoDB` `MySQL` `PostgreSQL`
-
-### 🛠️ Tools & Design
-`Git` `GitHub` `VS Code` `Android Studio` `Docker` `AWS` `Vercel` `Figma` `Adobe XD` `Photoshop`
-
-<br/>
+<br />
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ The Tech Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Mobile</b></td>
+      <td align="center" width="25%"><b>Frontend</b></td>
+      <td align="center" width="25%"><b>Backend</b></td>
+      <td align="center" width="25%"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,apple" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,docker" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,ps" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzyjr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzyjr&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🏆 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfawzyjr&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfawzyjr&theme=tokyonight" alt="Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfawzyjr&theme=tokyonight" alt="Commit Languages" />
-</p>
-
----
-<br/>
+<br />
 
 ---
 
-## 🎮 Gaming
+## � GitHub Insights
 
-| Game | Platform | Rating |
-|------|----------|--------|
-| Call of Duty | PC / PlayStation | ⭐⭐⭐⭐⭐ |
-| FIFA / EA FC | PlayStation / PC | ⭐⭐⭐⭐⭐ |
-| GTA V | PC / PlayStation | ⭐⭐⭐⭐⭐ |
-| Valorant | PC | ⭐⭐⭐⭐⭐ |
-| PUBG | Mobile / PC | ⭐⭐⭐⭐⭐ |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
-![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat-square&logo=playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=flat-square&logo=epicgames&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzyjr&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&background=0D1117" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzyjr&theme=tokyonight&hide_border=true&area=true&color=00D9FF&bg_color=0D1117" width="97%" alt="Activity Graph" />
+</p>
+
+<br />
 
 ---
 
@@ -126,53 +106,66 @@
 
 <p align="center">
   <a href="https://github.com/ahmedfawzyjr/Masarefy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Masarefy&theme=tokyonight&show_owner=true" alt="Masarefy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Masarefy&theme=tokyonight&show_owner=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Masarefy" />
   </a>
   <a href="https://github.com/ahmedfawzyjr/Umrah-Legherk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Umrah-Legherk&theme=tokyonight&show_owner=true" alt="Umrah-Legherk" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Umrah-Legherk&theme=tokyonight&show_owner=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Umrah-Legherk" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ahmedfawzyjr/Ahmed-Fawzy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Ahmed-Fawzy&theme=tokyonight&show_owner=true" alt="Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Ahmed-Fawzy&theme=tokyonight&show_owner=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Portfolio" />
   </a>
   <a href="https://github.com/ahmedfawzyjr/Commandos-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Commandos-Game&theme=tokyonight&show_owner=true" alt="Commandos-Game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedfawzyjr&repo=Commandos-Game&theme=tokyonight&show_owner=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117" alt="Commandos-Game" />
   </a>
 </p>
 
----
-
-## 💬 Random Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
+<br />
 
 ---
 
-## 🌐 Connect With Me
+## 🎮 Gaming Arena
+
+<div align="center">
+
+| Game | Platform | Ranking |
+|:---:|:---:|:---:|
+| **Call of Duty** | PC / PS5 | 💎 Diamond |
+| **EA Sports FC** | PC / PS5 | 💎 Elite |
+| **GTA V** | PC / PS5 | 💎 Legend |
+| **Valorant** | PC | 💎 Immortal |
+| **PUBG** | Mobile / PC | 💎 Conqueror |
+
+<br />
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+
+</div>
+
+---
+
+## 🌐 Connectivity Grid
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedfawzyjr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ahmedfawzyjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/ahmedfawzyjr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://instagram.com/ahmedfawzyjr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://facebook.com/ahmedfawzyjr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://youtube.com/@ahmedfawzyjr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 <p align="center">
   <a href="https://dev.to/ahmedfawzyjr"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://stackoverflow.com/users/8146570/ahmed-fawzy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-  <a href="mailto:contact@ahmedfawzy.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://youtube.com/@ahmedfawzyjr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://t.me/ahmedfawzyjr"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://open.spotify.com/user/31h6h36puzlw4cx4y3actglmon2a"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
 </p>
 
----
-
-## 💖 Support
+<br />
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ahmedfawzy"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
@@ -183,6 +176,10 @@
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00D9FF&bg_color=0D1117" alt="Quote" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;Made+with+%E2%9D%A4%EF%B8%8F+from+Egypt" alt="Footer" />
 </p>
 
@@ -191,5 +188,5 @@
 </p>
 
 <p align="center">
-  <sub>Last Updated: January 2026 | Made with ❤️ by Ahmed Fawzy</sub>
+  <sub>Last Updated: February 2026 | Designed with ❤️ by Antigravity</sub>
 </p>
