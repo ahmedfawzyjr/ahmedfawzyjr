@@ -153,7 +153,7 @@ Explore my extensive portfolio of mobile apps, web applications, games, and syst
 </details>
 
 <details>
-  <summary><b>🛠️ Category 2: Utility & Productivity Solutions (14)</b></summary>
+  <summary><b>🛠️ Category 2: Utility & Productivity Solutions (15)</b></summary>
   <br />
   <table width="100%">
     <tr>
@@ -205,6 +205,13 @@ Explore my extensive portfolio of mobile apps, web applications, games, and syst
       <td>Digital detox companion app designed to work with smart wood boxes to reduce screen time.</td>
       <td>
         🌐 <a href="https://detoxbox.vercel.app" target="_blank">Web</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>💡 Menawar</b></td>
+      <td>Flutter application plan and control platform for Li-Fi (Light Fidelity) communication.</td>
+      <td>
+        🌐 <a href="https://menawarapp.vercel.app" target="_blank">Web</a>
       </td>
     </tr>
     <tr>
