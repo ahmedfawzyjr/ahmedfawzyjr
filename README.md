@@ -385,7 +385,6 @@
 | 4 | **⚡ Hero Tech** | Mobile-first enterprise dashboard and custom CRM platform. | [🌐 Web](https://herotechapp.vercel.app) |
 | 5 | **🌐 GX Group** | Corporate educational portal & project management hub. | [🌐 Web](https://gxgroup.vercel.app) |
 | 6 | **🎨 Ahmed Fawzy Portfolio** | Personal portfolio showcasing projects, skills, and career. | [🌐 Web](https://ahmedfawzi.vercel.app) |
-| 7 | **👤 Mohamed Fawzy** | Personal portfolio and professional profile site. | [🌐 Web](https://mohamedfawzi.vercel.app) |
 | 8 | **🧑‍💻 Shaheber** | Developer personal site and project showcase. | [🌐 Web](https://shaheber.vercel.app) |
 
 <br/>
