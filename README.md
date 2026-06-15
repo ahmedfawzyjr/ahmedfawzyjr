@@ -68,6 +68,7 @@
         <tr><td>🏗️</td><td><b>Stack:</b> Flutter · Rust · Go · Kafka · Redis · K8s · WebSockets · PostgreSQL</td></tr>
         <tr><td>🧠</td><td><b>Algorithms:</b> 1,000+ LeetCode problems · <b>Top 30,000 globally</b></td></tr>
         <tr><td>📦</td><td><b>Shipped:</b> 60+ projects · mobile, web, systems, games, AI</td></tr>
+        <tr><td>🌍</td><td><b>Open to:</b> Ireland · Netherlands · Germany · Finland · Estonia · Remote</td></tr>
         <tr><td>📫</td><td><b>Contact:</b> <a href="mailto:ahmedfawzyjrbusiness@gmail.com">ahmedfawzyjrbusiness@gmail.com</a></td></tr>
         <tr><td>📅</td><td><b>Book:</b> <a href="http://calendly.com/ahmadfawzyjr">calendly.com/ahmadfawzyjr</a></td></tr>
         <tr><td>🌐</td><td><b>Portfolio:</b> <a href="https://ahmedfawzi.vercel.app/">ahmedfawzi.vercel.app</a></td></tr>
@@ -150,7 +151,14 @@
 <br/>
 
 ---
+## 🏆 GitHub Trophies
 
+  <p align="center">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=ahmedfawzyjr&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  </p>
+  
+<br/>
+---
 ## 🧮 LeetCode Performance
 
 <p align="center">
@@ -167,42 +175,36 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
+## 🎵 Spotify
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31h6h36puzlw4cx4y3actglmon2a">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00D9FF" width="380" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31h6h36puzlw4cx4y3actglmon2a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h6h36puzlw4cx4y3actglmon2a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true&bar_color=53b14f&mode=dark">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31h6h36puzlw4cx4y3actglmon2a">
-    <img src="https://img.shields.io/badge/Spotify-Follow%20Me-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<br/>
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹 Contribution Game
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzyjr/ahmedfawzyjr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzyjr/ahmedfawzyjr/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ahmedfawzyjr/ahmedfawzyjr/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
-</p>
+</div>
+
 
 <br/>
 
 ---
 
-## 📊 Coding Time & WakaTime Stats
+## 📊 Coding Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmedfawzyjr&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&layout=compact" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzyjr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=1ED760&text_color=ffffff&bg_color=0D1117&custom_title=Ahmed%27s%20GitHub%20Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzyjr&layout=donut&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&langs_count=8" width="38%" />
 </p>
 
 <br/>
