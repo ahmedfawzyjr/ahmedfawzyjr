@@ -1,0 +1,822 @@
+Master Project Directory & Repository Mapping — Ahmed Fawzy (ahmedfawzyjr)
+
+Total Account Repositories: 121 Repositories
+Audited & Verified Public Repos: 23 Repositories
+Vercel Web Deployments: 67 Projects
+Google Play Store Apps: 15 Published Apps (Kraken L.L.C)
+Apple App Store Apps: 2 Published Apps
+Google AI Studio Applications & Prompts: 69 Applications (10 HTML Web Apps + 59 AI Prompts & Assistants)
+
+======================================================
+
+1. Mr.Road
+- Category: Flagship Mobile & Transit Platform
+- GitHub Repository: https://github.com/ahmedfawzyjr/mr-road
+- Official Website / Demo: https://mrroadapp.com/
+- Google Play Store: https://play.google.com/store/apps/details?id=com.mr_road_app_v3
+- Apple App Store: https://apps.apple.com/us/app/mr-road/id6740568833
+
+2. Halal OS
+- Category: Flagship Operating System & Desktop Concept
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-os
+- Official Website / Demo: https://halalosdemo.vercel.app
+- Vercel Production Link: https://halalos.vercel.app
+
+3. Deep Stream
+- Category: Flagship Interactive Streaming Platform
+- GitHub Repository: https://github.com/ahmedfawzyjr/deep-stream
+- Official Website / Demo: https://kickdeepstream.vercel.app
+- Vercel Production Link: https://deepstreamapp.vercel.app
+
+4. Halal Browser
+- Category: Flagship Privacy Web Browser
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-browser
+- Official Website / Demo: https://halalweb.vercel.app
+- Vercel Production Link: https://halalweb.vercel.app
+
+5. Halal Player
+- Category: Flagship Desktop & Mobile Media Player
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-player
+- Official Website / Demo: https://halal-player-website-v1.vercel.app
+- Vercel Production Link: https://halalplayer.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.halalplayer
+
+6. n8n Templates & Workflows
+- Category: Flagship Automation & AI Workflow Hub
+- GitHub Repository: https://github.com/ahmedfawzyjr/n8n-templates
+- Official Website / Demo: https://n8nportal.vercel.app
+- Vercel Production Link: https://n8nportal.vercel.app
+
+7. Xtmarts
+- Category: E-Commerce & Compound Delivery Platform
+- GitHub Repository: https://github.com/ahmedfawzyjr/xtmarts
+- Official Website / Demo: https://xtmarts.premiumasp.net/
+- Google Play Store: https://play.google.com/store/apps/details?id=com.xtmartsz.xtmartsz
+- Apple App Store: https://apps.apple.com/eg/app/xtmarts/id6743351059
+
+8. Dot Dash
+- Category: Published Mobile Game
+- GitHub Repository: https://github.com/ahmedfawzyjr/dotdash-app
+- Vercel Production Link: https://dotdashapp.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.dotdash
+
+9. Maskan
+- Category: Published Real Estate Mobile App
+- GitHub Repository: https://github.com/ahmedfawzyjr/maskan-app
+- Vercel Production Link: https://maskanapp.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.maskanapp
+
+10. Inflato
+- Category: Published Financial Utility App
+- GitHub Repository: https://github.com/ahmedfawzyjr/inflato-app
+- Vercel Production Link: https://inflatoapp.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.inflato.app
+
+11. BMI Calculator App
+- Category: Published Health & Fitness Mobile App
+- GitHub Repository: https://github.com/ahmedfawzyjr/bmi-calculator-app
+- Vercel Production Link: https://calculatorbmiapp.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=bmicalculatorme.app
+
+12. Echo Messenger
+- Category: Published Messaging Application
+- GitHub Repository: https://github.com/ahmedfawzyjr/echo-messenger
+- Vercel Production Link: https://echomessenger.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.echo.connect.offline
+
+13. Taqawim
+- Category: Published Hijri Calendar App
+- GitHub Repository: https://github.com/ahmedfawzyjr/taqawim
+- Vercel Production Link: https://taqawim.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.taqawimapp
+
+14. Shaheber
+- Category: Published Social Companion Platform
+- GitHub Repository: https://github.com/ahmedfawzyjr/shaheber
+- Official Website / Demo: http://shaheber.com/
+- Vercel Production Link: https://shaheber.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.shaheber
+
+15. Khawatm
+- Category: Published Digital Tasbeeh Utility
+- GitHub Repository: https://github.com/ahmedfawzyjr/khawatm
+- Vercel Production Link: https://khawatm.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.khawatm
+
+16. Giga Man
+- Category: Published Arcade Mobile Game
+- GitHub Repository: https://github.com/ahmedfawzyjr/gigaman
+- Vercel Production Link: https://gigaman.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.gigaman
+
+17. Moslsleeko
+- Category: Published Entertainment & Series Guide
+- GitHub Repository: https://github.com/ahmedfawzyjr/moslsleeko
+- Vercel Production Link: https://moslsleeko.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.moslsleeko
+
+18. Neon Runner
+- Category: Published Cyberpunk Mobile Game
+- GitHub Repository: https://github.com/ahmedfawzyjr/play-neon-runner
+- Vercel Production Link: https://playnoenrunner.vercel.app
+- Google Play Store: https://play.google.com/store/apps/details?id=com.neonrunner.game.official
+
+19. Tilawa (تِلاوَة)
+- Category: Published Quran Recitation Mobile App
+- GitHub Repository: https://github.com/ahmedfawzyjr/tilawa-quran
+- Google Play Store: https://play.google.com/store/apps/details?id=com.tilawaquran.app
+
+20. Ahmed Fawzy Developer Portfolio
+- Category: Official Profile & Developer Portfolio
+- GitHub Repository: https://github.com/ahmedfawzyjr/ahmedfawzyjr
+- Official Website / Demo: https://ahmedfawzi.vercel.app
+- Vercel Production Link: https://ahmed-fawzy.vercel.app
+
+21. Petology Web
+- Category: Hackathon Pet Adoption Platform
+- GitHub Repository: https://github.com/ahmedfawzyjr/petology-web
+- Official Website / Demo: https://petology-sage.vercel.app
+- Vercel Production Link: https://petologyapp.vercel.app
+
+22. College Academic Portfolio & iLearn
+- Category: Academic Portfolio & CS Curriculum
+- GitHub Repository: https://github.com/ahmedfawzyjr/college-academic-portfolio
+- Vercel Production Link: https://ilearnapp.vercel.app
+
+23. Booking App
+- Category: Hotel & Service Reservation App
+- GitHub Repository: https://github.com/ahmedfawzyjr/booking-app
+
+24. Weather App
+- Category: Geolocation Forecast Utility
+- GitHub Repository: https://github.com/ahmedfawzyjr/weather-app
+
+25. Todo App
+- Category: Productivity & Local Persistence App
+- GitHub Repository: https://github.com/ahmedfawzyjr/todo-app
+
+26. Nursery Shopping App
+- Category: React Native E-Commerce App
+- GitHub Repository: https://github.com/ahmedfawzyjr/nursery-shopping-app
+
+27. Flutter Login UI
+- Category: Reusable Flutter UI Component
+- GitHub Repository: https://github.com/ahmedfawzyjr/flutter-login-ui
+
+28. Express Book Reviews
+- Category: Node.js REST API Backend
+- GitHub Repository: https://github.com/ahmedfawzyjr/express-book-reviews
+
+29. Library Management System
+- Category: Java Desktop Application
+- GitHub Repository: https://github.com/ahmedfawzyjr/library-management-system
+
+30. DevOps Capstone Project
+- Category: Enterprise Infrastructure & Microservices
+- GitHub Repository: https://github.com/ahmedfawzyjr/devops-capstone-project
+
+31. LeetCode Solutions
+- Category: Algorithms & Data Structures Portfolio
+- GitHub Repository: https://github.com/ahmedfawzyjr/leetcode-solutions
+
+32. Project Euler Solutions
+- Category: Competitive Programming & Math
+- GitHub Repository: https://github.com/ahmedfawzyjr/project-euler-solutions
+
+33. 100 Days of Code
+- Category: Daily Code & Algorithms Challenge
+- GitHub Repository: https://github.com/ahmedfawzyjr/100-days-of-code
+
+34. GitHub Task Automation
+- Category: CI/CD & Web Testing Showcase
+- GitHub Repository: https://github.com/ahmedfawzyjr/github-task-automation
+
+35. GitHub Final Project
+- Category: IBM & Coursera Capstone
+- GitHub Repository: https://github.com/ahmedfawzyjr/github-final-project
+
+36. Ethereum.org Website Fork
+- Category: Web3 & Blockchain Documentation
+- GitHub Repository: https://github.com/ahmedfawzyjr/ethereum-org
+
+======================================================
+
+Complete Vercel Web Projects Catalog (67 Projects)
+
+1. ahmed-fawzy
+- Vercel URL: https://ahmed-fawzy.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/ahmedfawzyjr
+
+2. ahmedfawzi
+- Vercel URL: https://ahmedfawzi.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/ahmedfawzyjr
+
+3. arabicalphabetadventure
+- Vercel URL: https://arabicalphabetadventure.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/arabic-alphabet-adventure
+
+4. arabicbook
+- Vercel URL: https://arabicbook.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/arabic-book
+
+5. bankyapp
+- Vercel URL: https://bankyapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/banky-app
+
+6. birthdaycard
+- Vercel URL: https://birthdaycard-chi-gray.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/birthday-card
+
+7. bloodappbank
+- Vercel URL: https://bloodappbank.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/blood-bank-app
+
+8. bloomheaven
+- Vercel URL: https://bloomheaven.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/bloom-heaven
+
+9. cairorush
+- Vercel URL: https://cairorush.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/cairo-rush
+
+10. calculatorbmiapp
+- Vercel URL: https://calculatorbmiapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/bmi-calculator-app
+
+11. creditk
+- Vercel URL: https://creditk.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/credit-k
+
+12. deepstreamapp
+- Vercel URL: https://deepstreamapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/deep-stream
+
+13. desocialapp
+- Vercel URL: https://desocialapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/desocial-app
+
+14. detoxbox
+- Vercel URL: https://detoxbox.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/detox-box
+
+15. dotdashapp
+- Vercel URL: https://dotdashapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/dotdash-app
+
+16. echomessenger
+- Vercel URL: https://echomessenger.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/echo-messenger
+
+17. eyesignal
+- Vercel URL: https://eyesignal.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/eye-signal
+
+18. farahapp
+- Vercel URL: https://farahapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/farah-app
+
+19. filmajor
+- Vercel URL: https://filmajor.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/filmajor
+
+20. gigaman
+- Vercel URL: https://gigaman.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/gigaman
+
+21. gxgroup
+- Vercel URL: https://gxgroup.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/gxgroup
+
+22. halalos
+- Vercel URL: https://halalos.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-os
+
+23. halalosdemo
+- Vercel URL: https://halalosdemo.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-os
+
+24. halalplayer
+- Vercel URL: https://halalplayer.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-player
+
+25. halalweb
+- Vercel URL: https://halalweb.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/halal-browser
+
+26. hayatk
+- Vercel URL: https://hayatk.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/hayatk
+
+27. herotechapp
+- Vercel URL: https://herotechapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/herotech-app
+
+28. ilearnapp
+- Vercel URL: https://ilearnapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/college-academic-portfolio
+
+29. inflatoapp
+- Vercel URL: https://inflatoapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/inflato-app
+
+30. khawatm
+- Vercel URL: https://khawatm.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/khawatm
+
+31. khayalinteractive
+- Vercel URL: https://khayalinteractive.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/khayal-interactive
+
+32. kickdeepstream
+- Vercel URL: https://kickdeepstream.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/deep-stream
+
+33. krakenapps
+- Vercel URL: https://krakenapps.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/kraken-apps
+
+34. krakensoftware
+- Vercel URL: https://krakensoftware.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/kraken-software
+
+35. learnoviaapp
+- Vercel URL: https://learnoviaapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/learnovia-app
+
+36. lospollos-hermanos
+- Vercel URL: https://lospollos-hermanos.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/lospollos-hermanos
+
+37. mallahy
+- Vercel URL: https://mallahy.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/mallahy
+
+38. masarefyapp
+- Vercel URL: https://masarefyapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/masarefy-app
+
+39. maskanapp
+- Vercel URL: https://maskanapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/maskan-app
+
+40. masristickman
+- Vercel URL: https://masristickman.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/masri-stickman
+
+41. mawaraaaltabia
+- Vercel URL: https://mawaraaaltabia.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/mawaraa-altabia
+
+42. menawarapp
+- Vercel URL: https://menawarapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/menawar-app
+
+43. mohamedfawzi
+- Vercel URL: https://mohamedfawzi.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/mohamedfawzi
+
+44. moqyda
+- Vercel URL: https://moqyda.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/moqyda
+
+45. moslsleeko
+- Vercel URL: https://moslsleeko.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/moslsleeko
+
+46. mukhadram
+- Vercel URL: https://mukhadram.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/mukhadram
+
+47. n8nportal
+- Vercel URL: https://n8nportal.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/n8n-templates
+
+48. nilecommandos
+- Vercel URL: https://nilecommandos.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/nile-commandos
+
+49. origamiapp
+- Vercel URL: https://origamiapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/origami-app
+
+50. petologyapp
+- Vercel URL: https://petologyapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/petology-web
+
+51. playnoenrunner
+- Vercel URL: https://playnoenrunner.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/play-neon-runner
+
+52. playpianoapp
+- Vercel URL: https://playpianoapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/play-piano-app
+
+53. ragolelmostaheel
+- Vercel URL: https://ragolelmostaheel.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/ragol-elmostaheel
+
+54. rubiksapp
+- Vercel URL: https://rubiksapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/rubiks-app
+
+55. sadahmadah
+- Vercel URL: https://sadahmadah.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/sadahmadah
+
+56. shaheber
+- Vercel URL: https://shaheber.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/shaheber
+
+57. shrouk
+- Vercel URL: https://shrouk.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/shrouk
+
+58. spaceexplorerapp
+- Vercel URL: https://spaceexplorerapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/space-explorer-app
+
+59. taqawim
+- Vercel URL: https://taqawim.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/taqawim
+
+60. telkaqadeya
+- Vercel URL: https://telkaqadeya.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/telkaqadeya
+
+61. thothscoreapp
+- Vercel URL: https://thothscoreapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/thothscore-app
+
+62. truthguardapp
+- Vercel URL: https://truthguardapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/truthguard-app
+
+63. umbrellasoftware
+- Vercel URL: https://umbrellasoftware.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/umbrella-software
+
+64. umrahlgheerk
+- Vercel URL: https://umrahlgheerk.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/umrah-lgheerk
+
+65. veyaapp
+- Vercel URL: https://veyaapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/veya-app
+
+66. whoamiapp
+- Vercel URL: https://whoamiapp.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/whoami-app
+
+67. yellowfleetnovel
+- Vercel URL: https://yellowfleetnovel.vercel.app
+- GitHub Repository: https://github.com/ahmedfawzyjr/yellow-fleet-novel
+
+======================================================
+
+Google AI Studio Applications & Prompts Catalog (69 Applications)
+
+1. Aware
+- Type: AI Web App Prompt
+- Description: Full-stack AI web application for situational awareness and monitoring.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+2. Balance Tracker App
+- Type: AI Web App Prompt
+- Description: Financial balance tracker web application powered by Gemini.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+3. Book Swap
+- Type: AI Web App Prompt
+- Description: Web application for book lovers to exchange and swap books.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+4. Books
+- Type: AI Assistant Prompt
+- Description: Personal Book Recommendation & AI Literary Assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+5. Chemistry
+- Type: AI Educational Assistant
+- Description: Interactive chemistry problem solver and educational assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+6. Code Reviewer
+- Type: AI Developer Tool
+- Description: Automated code review and optimization assistant for software developers.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+7. Content Creation
+- Type: AI Content Generator
+- Description: Multi-channel AI content creation generator for creators.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+8. Dashboard
+- Type: AI Web App Prompt
+- Description: Interactive data dashboard and analytics web application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+9. Farah App
+- Type: AI Web App Prompt
+- Description: Event and celebration planning web application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+10. Fitness Tracker
+- Type: AI Health Assistant
+- Description: Health & workout tracking AI assistant app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+11. Form App
+- Type: AI Web App Prompt
+- Description: Dynamic form generator and user survey web application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+12. Fuel Log App
+- Type: AI Utility Assistant
+- Description: Vehicle fuel log and expense tracking assistant for drivers.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+13. Gem 1.5
+- Type: Flagship Multi-Modal Assistant
+- Description: Gemini 1.5 Pro Premier Multi-Modal AI Assistant & Prompt Studio.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+14. Gift Recommendation
+- Type: AI Recommendation Engine
+- Description: Smart gift recommendation engine based on user preferences.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+15. Health Log App
+- Type: AI Health Assistant
+- Description: Daily health metrics and medical log tracking assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+16. Image
+- Type: AI Creative Tool
+- Description: AI image generator and prompt crafting assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+17. Investor
+- Type: AI Financial Tool
+- Description: Investment portfolio analysis and market intelligence app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+18. Language Translator
+- Type: AI Linguistics Tool
+- Description: Multi-language translation and localization assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+19. Live Stream Website
+- Type: AI Web App Prompt
+- Description: Interactive live streaming web application platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+20. Medical Translator
+- Type: AI Healthcare Assistant
+- Description: Specialized medical terminology translator and clinical aid.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+21. Newspaper Website
+- Type: AI Web App Prompt
+- Description: Automated AI news aggregation and publishing platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+22. Next JS Project
+- Type: AI Web App Prompt
+- Description: Web application built with Next.js and Gemini integration.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+23. Newspaper Website (v2)
+- Type: AI Web App Prompt
+- Description: Digital newspaper web portal powered by AI.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+24. Next JS Project (v2)
+- Type: AI Web App Prompt
+- Description: Modern full-stack Next.js web application template.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+25. Portfolio Web App
+- Type: AI Web App Prompt
+- Description: Developer portfolio showcase web application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+26. Quiz App
+- Type: AI Educational Tool
+- Description: Interactive AI quiz generator and knowledge testing platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+27. Real Estate
+- Type: AI Commercial Tool
+- Description: Property listing and real estate valuation web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+28. Recipe Recommendations
+- Type: AI Culinary Assistant
+- Description: Personalized culinary recipe generator based on available ingredients.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+29. Resume Maker
+- Type: AI Career Tool
+- Description: Automated professional resume builder and formatter.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+30. Resume Analyzer
+- Type: AI Career Tool
+- Description: AI resume ATS scanner and job matching assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+31. Scholar
+- Type: AI Research Assistant
+- Description: Academic research, citation, and paper summary assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+32. Search Engine
+- Type: AI Search Tool
+- Description: Custom web search engine powered by Gemini grounding.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+33. Secure Pay
+- Type: AI Web App Prompt
+- Description: Payment portal and financial transaction security interface.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+34. Shaheber
+- Type: AI Social Companion
+- Description: Companion social platform and community hub.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+35. Social
+- Type: AI Web App Prompt
+- Description: Social networking web application interface.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+36. Social App
+- Type: AI Web App Prompt
+- Description: Interactive social feed and community platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+37. Space Explorer App
+- Type: AI Web App Prompt
+- Description: Astronomical visualization and space exploration web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+38. Strategic Business Planner Pro App
+- Type: AI Enterprise Tool
+- Description: Enterprise strategic business planning assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+39. Task Manager
+- Type: AI Productivity Tool
+- Description: Task management, Kanban board, and productivity system.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+40. Air Condition Services
+- Type: AI Service Tool
+- Description: HVAC & AC maintenance scheduling web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+41. Aviation
+- Type: AI Aviation Assistant
+- Description: Aviation flight data and pilot intelligence assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+42. Barbershop Reservation
+- Type: AI Booking Tool
+- Description: Barbershop appointment booking and management system.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+43. Beta Testers
+- Type: AI QA Tool
+- Description: Software QA testing feedback and issue collection hub.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+44. Investor Pro
+- Type: AI Financial Tool
+- Description: Advanced investment and financial market analysis engine.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+45. Kitchen Redesign
+- Type: AI Design Assistant
+- Description: Interior kitchen redesign and 3D concept generator.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+46. Legal Assistant
+- Type: AI Legal Tool
+- Description: Legal document analysis, contract review, and research aid.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+47. Moving Planners
+- Type: AI Logistics Assistant
+- Description: Relocation logistics and moving planner application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+48. N8N Automation System
+- Type: AI Workflow Tool
+- Description: Workflow automation hub and n8n integration assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+49. Nile Commandos Stream App
+- Type: AI Streaming App
+- Description: Gaming stream community portal application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+50. Nile Commandos Stream
+- Type: AI Streaming App
+- Description: Dedicated live video streaming portal interface.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+51. Personal Financial
+- Type: AI Financial Assistant
+- Description: Personal budgeting, savings, and expense tracker.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+52. Investor Enterprise
+- Type: AI Financial Dashboard
+- Description: Wealth management and investment portfolio dashboard.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+53. Professional CV
+- Type: AI Career Assistant
+- Description: Executive CV builder and portfolio generator.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+54. Ramadan Meal Planning App
+- Type: AI Cultural Assistant
+- Description: Specialized Ramadan suhoor & iftar meal planner.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+55. Real Estate Investment App
+- Type: AI Investment Tool
+- Description: Commercial & residential real estate ROI calculator.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+56. Religion Creative Assistant
+- Type: AI Creative Assistant
+- Description: Creative Islamic content generation and study guide.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+57. Second Hand Marketplace
+- Type: AI E-Commerce App
+- Description: Peer-to-peer second-hand item buying/selling web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+58. Software Portfolio
+- Type: AI Portfolio Tool
+- Description: Developer software showcase and project gallery.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+59. Smart Concept & Tech Hub App
+- Type: AI Innovation Hub
+- Description: Technology innovation studio & concept incubator.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+60. Umbrella Software
+- Type: HTML Single-File Web App
+- Description: Software development company interactive web application.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+61. Halal Player
+- Type: HTML Single-File Web App
+- Description: Interactive media player web application studio.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+62. Islamic Stories App
+- Type: HTML Single-File Web App
+- Description: Interactive Islamic stories storytelling web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+63. Super AI Educational Support
+- Type: HTML Single-File Web App
+- Description: AI tutoring & STEM educational interactive platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+64. Task Force - Task Manager
+- Type: HTML Single-File Web App
+- Description: Team productivity & task management interactive system.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+65. Virtual Event Space
+- Type: HTML Single-File Web App
+- Description: Virtual conference & event streaming platform.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+66. Mobile App Developer AI Assistant
+- Type: HTML Single-File Web App
+- Description: Cross-platform mobile app development studio assistant.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+67. Forex Trading Assistant
+- Type: HTML Single-File Web App
+- Description: Currency market technical analysis & chart studio.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+68. Smart Financial Advisory Studio
+- Type: HTML Single-File Web App
+- Description: Financial planning & wealth advisory interactive studio.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
+69. Auto Market App
+- Type: HTML Single-File Web App
+- Description: Automotive marketplace & vehicle appraisal web app.
+- Platform: Google AI Studio (https://aistudio.google.com/apps)
+
