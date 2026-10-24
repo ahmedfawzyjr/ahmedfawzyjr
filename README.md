@@ -230,7 +230,7 @@
 
 | Metric | Detail | Highlights |
 |:---|:---|:---|
-| **LeetCode Ranking** | **Global Top 7,000 (Top 0.5% Worldwide)** | Solved 1,500+ hard/medium data structures & algorithm problems. |
+| **LeetCode Ranking** | **Global Top 1,600 (Top 0.2% Worldwide)** | Solved 2,300+ hard/medium data structures & algorithm problems. |
 | **Core Competencies** | **Advanced Algorithms & System Design** | Dynamic Programming, Graph Theory, Segment Trees, Dynamic Backtracking, Distributed Systems. |
 | **Competitive Platforms** | **LeetCode · HackerRank · GitHub** | Active profile on <a href="https://leetcode.com/u/ahmedfawzyjr" style="text-decoration:none;">LeetCode</a> and <a href="https://www.hackerrank.com/ahmedfawzyjr" style="text-decoration:none;">HackerRank</a>. |
 
