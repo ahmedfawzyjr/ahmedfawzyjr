@@ -72,7 +72,7 @@
       <table>
         <tr><td><b>Current Role:</b> Co-Founder & CTO / Lead Software Engineer @ <a href="https://mrroadapp.com" style="text-decoration:none;">Mr. Road</a></td></tr>
         <tr><td><b>Core Stack:</b> TypeScript · Node.js · React/Next.js · Go · Rust · Python · Flutter · PostgreSQL · Redis · Kafka · Docker · Kubernetes · Terraform</td></tr>
-        <tr><td><b>Algorithms:</b> 2250+ Solved on LeetCode (Global Top 1,442 / Top 0.2% Worldwide)</td></tr>
+        <tr><td><b>Algorithms:</b> 2310+ Solved on LeetCode (Global Top 1,300 / Top 0.1% Worldwide)</td></tr>
         <tr><td><b>Background:</b> Data Center & Network Engineer @ Egyptian Ministry of Defense (VMware vCenter/vSAN)</td></tr>
         <tr><td><b>Languages:</b> Arabic (Native) · English (C1 Advanced Certified) · German (B1)</td></tr>
         <tr><td><b>Contact:</b> <a href="mailto:ahmedfawzyjrbusiness@gmail.com" style="text-decoration:none;">ahmedfawzyjrbusiness@gmail.com</a></td></tr>
